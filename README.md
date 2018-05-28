@@ -1,5 +1,6 @@
 # UCI--Adult-Data-Set
-This data was extracted from UCI Repository- ADULT DATA.\
+This data was extracted from UCI Repository- ADULT DATA.<br />
+http://archive.ics.uci.edu/ml/machine-learning-databases/adult
 
 ## Test-Train Split
 Split into train-test using MLC++ GenCVFiles (2/3, 1/3 random).<br />
