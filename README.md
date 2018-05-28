@@ -9,7 +9,7 @@ Split into train-test using MLC++ GenCVFiles (2/3, 1/3 random).<br />
 
 ###### Prediction task is to determine whether a person makes over 50K a year.
 
-# Results: <br />
+###### Results: <br />
    | Algorithm                                    | Accuracy           |
    |----------------------------------------------|--------------------|
    |SVM- 'rbf' Kernel                             | 0.7986448220064725 |
